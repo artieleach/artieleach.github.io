@@ -40,14 +40,16 @@ a {
     line-height: 4vw;
 }
 #weekday {
-    font-size: 2vw;
-    line-height: 2vw;
+    font-size: 3.5vw;
+    line-height: 3.5vw;
 }
 svg {
-    width: 32px;
-    height: 32px;
+    width: 10%;
     text-decoration: none;
     margin: 2%;
+}
+circle{
+    fill:#222;
 }
 svg:hover > circle {
     text-decoration: none;
