@@ -9,7 +9,7 @@ html {
     min-height: 100%;
 }
 body {
-    background-image: url("images/bgm.png");
+    background-image: url("images/bgm.svg");
 }
 #links {
     margin-top: 5%;
