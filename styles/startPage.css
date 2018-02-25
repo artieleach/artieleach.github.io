@@ -9,7 +9,7 @@ html {
     min-height: 100%;
 }
 body {
-    background-image: url("BLACK_I_desktop-1.svg");
+    background-image: url("background.svg");
 }
 #links {
     margin-top: 5%;
