@@ -54,7 +54,7 @@ svg {
 circle{
     fill:#222;
 }
-svg:hover > circle {
+a:hover > circle {
     text-decoration: none;
     fill: #fd971f;
 }
