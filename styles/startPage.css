@@ -34,7 +34,7 @@ a {
 #clock,#weekday,#date,#search-bar{
     color: rgba(220,220,220,0.5);
     margin: 0;
-    font-family: Monaco;
+    font-family: "Lucida Console";
 }
 
 #clock {
