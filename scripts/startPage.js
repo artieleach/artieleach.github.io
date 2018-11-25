@@ -119,7 +119,7 @@ function dayToString(e) {
         case 23:
             return "twenty third";
         case 24:
-            return "twenty forth";
+            return "twenty fourth";
         case 25:
             return "twenty fifth";
         case 26:
